@@ -1,9 +1,9 @@
 {
   "name": "Yumeko Wa-Bot",
-  "description": "mmmmmmm",
+  "description": "This Is For Easy To Use Whatsapp",
   "repository": "https://github.com/Dularazero/Alphab0t7",
   "logo": "https://telegra.ph/file/d9ca77d9adda29ad3bc65.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+  "keywords": ["nodejs", "bot", "Lisa bot", "whatsapp ai"]
   "buildpacks": [{
     "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
   }, {
