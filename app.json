@@ -1,9 +1,8 @@
-{
-  "name": "Yumeko Wa-Bot",
-  "description": "This Is For Easy To Use Whatsapp",
+  "name": "Yumeko Botwa",
+  "description": "A barebones Node.js app using ExpressFor Wa- BOT",
   "repository": "https://github.com/Dularazero/Alphab0t7",
   "logo": "https://telegra.ph//file/997dd2f1e3460eb69d51c.jpg",
-  "keywords": ["nodejs", "bot", "Lisa bot", "whatsapp ai"]
+  "keywords": ["node", "express", "static"]
   "buildpacks": [{
     "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
   }, {
