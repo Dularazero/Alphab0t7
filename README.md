@@ -49,9 +49,8 @@ Off in web nya
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-
-    ## 'Deploy'
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dularazero/Alphab0t7
+### 'Deploy'
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dularazero/Alphab0t7/main
 
     ## ```COFFEE```
 
